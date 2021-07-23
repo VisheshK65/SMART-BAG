@@ -1,8 +1,3 @@
-/* The Code is developed by Alok Shaw (alokom78@gmaail.com) and is free to use and modify. Watch the full explanation for the same on 
- *  Youtube : www.youtube.com/roboshala 
-*/
-
-
 #include <TinyGPS++.h>
 #include <SoftwareSerial.h>
 #define BLYNK_PRINT Serial
